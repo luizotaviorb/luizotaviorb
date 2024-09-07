@@ -29,7 +29,7 @@
   <a href="https://www.instagram.com/luizromualdo_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="luizotavio.ribeiro@hotmail.com" target="_blank">
+  <a href="mailto:luizotavio.ribeiro@hotmail.com?subject=&body=" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
