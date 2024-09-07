@@ -29,9 +29,9 @@
   <a href="https://www.instagram.com/luizromualdo_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:luizotavio.ribeiro@hotmail.com?subject=&body=" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
+  <a href="mailto:luizotavio.ribeiro@hotmail.com?subject=Quero%20falar%20com%20voc%C3%AA!&body=Ol%C3%A1!%0D%0A%0D%0AEstou%20a%20disposi%C3%A7%C3%A3o!" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="Microsoft Outlook logo" />
+</a>
 </div>
 
 ###
