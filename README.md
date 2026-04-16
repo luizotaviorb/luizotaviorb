@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! 👋<br><br>Welcome my profile!<br><br>- Passionate about Technology and Programming!<br>- Computer Science Student<br>- Solid Foundations in HTML, CSS, and JavaScript (React, Vue)<br>- Interest in Full Stack Development<br>- Strong Problem-Solving Skills<br>- Volunteering Web Developer at @remotinhodossonhos</p>
+<p align="left">Hi there! 👋<br><br>Welcome my profile!<br><br>- Passionate about Technology and Programming!<br>- Interest in Full Stack Development<br>- Strong Problem-Solving Skills<br></p>
 
 ###
 
