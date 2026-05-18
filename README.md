@@ -11,8 +11,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizotaviorb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Luiz%20Ot%C3%A1vio%20Romualdo%20GitHub%20Stat's" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizotaviorb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" />
 </div>
 
 ###
