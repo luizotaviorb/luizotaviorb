@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! 👋<br><br>Welcome my profile!<br><br>- Passionate about Technology and Programming!<br>- Interest in Full Stack Development<br>- Strong Problem-Solving Skills<br></p>
+<p align="left">Hi there! 👋<br><br>Welcome my profile!<br><br>- Passionate about Technology and Programming!<br>- Full Stack Developer<br>- Strong Problem-Solving Skills<br></p>
 
 ###
 
