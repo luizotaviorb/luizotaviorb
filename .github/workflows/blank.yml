@@ -22,5 +22,5 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
           UTC_OFFSET: -3
-          EXCLUDE: ""
+          EXCLUDE: "handlebars"
           AUTO_PUSH: true
